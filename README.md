@@ -8,7 +8,7 @@ The script files can be loaded with either include or require.
 ## Example  
 Set extension, loading file and folder   
    
-```
+```php
 require('./class_loader.php');   
 $ext = array('php', 'exp');   
 $loader = new FPHP_loader($ext);   
