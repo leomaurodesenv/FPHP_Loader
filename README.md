@@ -1,5 +1,7 @@
 # FPHP_Loader #
    
+API Documentation: http://doc.leonardomauro.com/fphp/
+   
 Class from package FPHP.   
 This class loader files from direct paths, or folder path.   
 The class supports multiple file name extensions to check and defaults to _.php_ .   
