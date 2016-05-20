@@ -1,4 +1,4 @@
-# FPHP_loader #
+# FPHP_Loader #
    
 Class from package FPHP.   
 This class loader files from direct paths, or folder path.   
