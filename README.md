@@ -1,6 +1,7 @@
 # FPHP_Loader #
-   
-API Documentation: http://doc.leonardomauro.com/fphp/
+
+Links:      
+[API Documentation](http://doc.leonardomauro.com/fphp/) and [PHP Classes](http://www.phpclasses.org/fphp_loader)
    
 Class from package FPHP.   
 This class loader files from direct paths, or folder path.   
