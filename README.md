@@ -15,3 +15,14 @@ $loader = new FPHP_loader($ext);
 $loader->load_file($root.'/1.top.exp');   
 $loader->load_dir($root.'/dir_example/');   
 ```
+
+## Also look ~  	
+* [License MIT][mit]
+* Create by Leonardo Mauro ([leo.mauro.desenv@gmail.com][email])
+* Git: [leomaurodesenv][git]
+* Site: [Portfolio][leomauro]
+   
+[mit]: https://opensource.org/licenses/MIT
+[email]: leo.mauro.desenv@gmail.com
+[git]: https://github.com/leomaurodesenv/
+[leomauro]: http://leonardomauro.com

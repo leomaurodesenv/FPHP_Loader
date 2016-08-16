@@ -9,6 +9,7 @@
  * @author Leonardo Mauro <leo.mauro.desenv@gmail.com>
  * @link https://github.com/leomaurodesenv/FPHP_loader/ GitHub
  * @link https://opensource.org/licenses/GPL-2.0 GNU Public License (GPL v2)
+ * @link https://doc.leonardomauro.com/fphp API Documentation
  * @version 1.2.2 16-05-17
  * @copyright 2016 Leonardo Mauro
  * @license GPL v2
@@ -18,7 +19,7 @@
 
 class FPHP_Loader{
 	
-	/** @var array $extensions Extensions allowed. */ 
+	/** @var array $extensions Extensions allowed. */
 	private $extensions;
 	/** @var bool $require Define require|include function. */
 	private $require;
