@@ -20,12 +20,12 @@ $loader->load_dir($root.'/dir_example/');
 ```
 
 ## Also look ~  	
-* [License MIT][mit]
+* [License GPL v2][gpl]
 * Create by Leonardo Mauro ([leo.mauro.desenv@gmail.com][email])
 * Git: [leomaurodesenv][git]
 * Site: [Portfolio][leomauro]
    
-[mit]: https://opensource.org/licenses/MIT
+[gpl]: https://www.gnu.org/licenses/old-licenses/gpl-2.0.html
 [email]: leo.mauro.desenv@gmail.com
 [git]: https://github.com/leomaurodesenv/
 [leomauro]: http://leonardomauro.com
