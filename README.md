@@ -21,6 +21,6 @@ $loader->load_dir($root.'/dir_example/');
 
 ## Also look ~  	
 * [License GPL v2](https://www.gnu.org/licenses/old-licenses/gpl-2.0.html)
-* Create by Leonardo Mauro ([leo.mauro.desenv@gmail.com](mailto:leo.mauro.desenv@gmail.com))
+* Create by Leonardo Mauro (leo.mauro.desenv@gmail.com)
 * Git: [leomaurodesenv](https://github.com/leomaurodesenv/)
 * Site: [Portfolio](http://leonardomauro.com/portfolio/)
