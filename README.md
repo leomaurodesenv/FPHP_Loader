@@ -5,7 +5,7 @@ Links:
    
 Class from package FPHP.   
 
-**New**: The autoload was based on [PSR](http://www.phptherightway.com/) standards ot import the classes.   
+**New**: The autoload was based on [PSR](http://www.phptherightway.com/) standards to import the classes.   
 Split the main class `FPHP_Loader` in two: `ClassLoader` and `FileLoader`.   
 
 **Fixed**: Error parser.   
